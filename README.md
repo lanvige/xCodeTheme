@@ -6,4 +6,4 @@ It's a copy from EGO team, you can get detail info from below:
 http://developers.enormego.com/view/ego_xcode_theme_for_xcode_4_egov2
 
 
-![EGOv2](https://github.com/lanvige/xCodeTheme/blob/master/EGOv2.png "EGOv2")
+![EGOv2](https://raw.github.com/lanvige/xCodeTheme/master/EGOv2.png "EGOv2")
